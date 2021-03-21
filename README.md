@@ -38,9 +38,11 @@ To use this app, enter a deposit or a withdrawal in online or offline mode. If y
 # TECHNICAL SPECS
 * Runs on the command line. 
 * Uses MongoDB Atlas for offline storage. 
+* Uses a service worker to communicate in an offline environment.
+* Uses a manifest.json file to tell the browser how to display the budget tracker. This file includes the name of the app, the icons used, and the URL at which the app lives.
 	
 # LESSONS LEARNED 
-This project was good for learning about using the dev tools. I'd already been using the 'Inspect Elements' panel in styling my projects, but now I know how to use the dev tools to simulate throttling and offline mode.
+This project was good for learning about using the dev tools. I'd already been using the 'Inspect Elements' panel in styling my projects, but now I know how to use the dev tools to simulate throttling and offline mode. I also learned about service worker files and manifest.json files.
 
 # CONTRIBUTIONS
 This was an individual project. Thanks, as always, to my study group and TAs!
