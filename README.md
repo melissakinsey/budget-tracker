@@ -40,6 +40,7 @@ To use this app, enter a deposit or a withdrawal in online or offline mode. If y
 * Uses MongoDB Atlas for offline storage. 
 	
 # LESSONS LEARNED 
+This project was good for learning about using the dev tools. I'd already been using the 'Inspect Elements' panel in styling my projects, but now I know how to use the dev tools to simulate throttling and offline mode.
 
 # CONTRIBUTIONS
 This was an individual project. Thanks, as always, to my study group and TAs!
