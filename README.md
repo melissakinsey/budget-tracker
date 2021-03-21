@@ -24,6 +24,7 @@
 
 # DESCRIPTION
 This tool [does this] using [these languages and technologies. 
+![picture-of-app](assets/screenshot.png)
 
 ## Project Repo & Demo
 The [code for this budget tracker](https://github.com/melissakinsey/budget-tracker) is housed on GitHub.  
@@ -32,18 +33,11 @@ The [code for this budget tracker](https://github.com/melissakinsey/budget-track
 *AS A* budget-conscious saver and frequent traveler *I WANT TO* enter deposits and withdrawals even when I'm offline *SO I CAN* manage my transactions without interruption.	
 	
 ## Usage
-To use this app, type 'lorem ipsum' on the command line. Then [do this]. To see how the tracker works, watch this quick [video demo](https://youtu.be/loremipsum).
-	
-# FEATURES
-This app makes it easy to add expenses and deposits to your budget with or without an internet connection. Transactions entered offline populate when the app comes back online.
+To use this app, enter a deposit or a withdrawal in online or offline mode. If you're offline, your transaction will sync next time you have an internet connection. To see how the tracker works, watch this quick [video demo](https://youtu.be/loremipsum).
 
-![picture-of-app](assets/screenshot.png)
-	
 # TECHNICAL SPECS
 * Runs on the command line. 
-* Uses XX to store records. 
-* Uses XX to interact with users. 
-* Formats data with XX. 
+* Uses MongoDB Atlas for offline storage. 
 	
 # LESSONS LEARNED 
 
@@ -57,7 +51,6 @@ This was an individual project. Thanks, as always, to my study group and TAs!
 * Badges created using Michael Currin's nifty [Badge Generator](https://michaelcurrin.github.io/badge-generator/#/repo)
 
 ![Badge Generator](assets/badge-generator.png) 
-
 
 # CONTACT ME
 Ping me with questions or project feedback:
