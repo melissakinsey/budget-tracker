@@ -61,4 +61,3 @@ Ping me with questions or project feedback:
 * Twitter: [@KinseyMelissa](https://twitter.com/KinseyMelissa)
 * Email: [kinsey.melissa@gmail.com](mailto:kinsey.melissa@gmail.com)
 * LinkedIn: [linkedin.com/melissajaynekinsey](https://www.linkedin.com/in/melissajaynekinsey/)
-
