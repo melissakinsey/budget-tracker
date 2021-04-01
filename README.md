@@ -23,7 +23,7 @@
 ![Screenshots of employee tracker](assets/employee-schema-cover.png)
 
 # DESCRIPTION
-This tool [does this] using [these languages and technologies. 
+This tool keeps track of expenditures using local storage to sync offline changes. 
 ![picture-of-app](assets/screenshot.png)
 
 ## Project Repo & Demo
